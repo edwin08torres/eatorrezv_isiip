@@ -1,0 +1,17 @@
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\AwDal.deps.json
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\AwDal.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\AwDal.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\Common.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\Entiies.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\Common.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\bin\Debug\net6.0\Entiies.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.csproj.AssemblyReference.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.AssemblyInfoInputs.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.AssemblyInfo.cs
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.csproj.CopyComplete
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\refint\AwDal.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\AwDal.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwDal\obj\Debug\net6.0\ref\AwDal.dll

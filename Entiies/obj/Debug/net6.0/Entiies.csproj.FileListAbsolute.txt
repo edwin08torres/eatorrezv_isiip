@@ -1,0 +1,12 @@
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\bin\Debug\net6.0\Entiies.deps.json
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\bin\Debug\net6.0\Entiies.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\bin\Debug\net6.0\Entiies.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.csproj.AssemblyReference.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.AssemblyInfoInputs.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.AssemblyInfo.cs
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\refint\Entiies.dll
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\Entiies.pdb
+C:\Users\JADPA-29\source\repos\webApiPrueba\Entiies\obj\Debug\net6.0\ref\Entiies.dll

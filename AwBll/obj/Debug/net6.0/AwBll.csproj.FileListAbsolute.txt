@@ -1,0 +1,5 @@
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwBll\obj\Debug\net6.0\AwBll.csproj.AssemblyReference.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwBll\obj\Debug\net6.0\AwBll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwBll\obj\Debug\net6.0\AwBll.AssemblyInfoInputs.cache
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwBll\obj\Debug\net6.0\AwBll.AssemblyInfo.cs
+C:\Users\JADPA-29\source\repos\webApiPrueba\AwBll\obj\Debug\net6.0\AwBll.csproj.CoreCompileInputs.cache
